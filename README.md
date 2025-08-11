@@ -16,9 +16,9 @@
 
   [稳定分支](https://github.com/ShihaoShen2025/ICC-DN10-Stable) [前沿分支（开发中）](https://github.com/ShihaoShen2025/ICC-DN10-Next)
 
-- [Ink Canvas Next~~（画饼阶段）~~](https://github.com/ShihaoShen2025/Ink-Canvas-Next)
+- [Ink Canvas Next ~~（画饼阶段）~~](https://github.com/ShihaoShen2025/Ink-Canvas-Next)
 
-- [InkNext 系列产品~~（真·画饼阶段）~~](https://github.com/Project-InkNext)
+- [InkNext 系列产品 ~~（真·画饼阶段）~~](https://github.com/Project-InkNext)
 
 - 这个 ReadMe 和这里的文章
 
