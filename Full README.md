@@ -1,6 +1,6 @@
 # Hello Everyone~ 👋
 
-[***在这里查看完整版***](https://github.com/ShihaoShen2025/ShihaoShen2025)
+
 
 欢迎来到我的 GitHub 主页！ 🥳
 
