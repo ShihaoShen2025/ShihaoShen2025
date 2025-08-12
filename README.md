@@ -2,7 +2,8 @@
 
 I'm Shihao, a hobby software developer who is also a high school student.
 
-You can [read the full version of the README](https://github.com/ShihaoShen2025/ShihaoShen2025/blob/main/Full%20README.md) here.
+You can [read the full version of the README](https://github.com/ShihaoShen2025/ShihaoShen2025/blob/main/Full%20README.md) here.\
+**We STRONGLY RECOMMEND you to read it on Windows 23H2+ because of the new [Fluent Emoji](https://github.com/microsoft/fluentui-emoji).**
 
 >[!NOTE]
 >
