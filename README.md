@@ -11,7 +11,8 @@ You can [read the full version of the README](https://github.com/ShihaoShen2025/
 
 ### My Projects
 
-- InkCanvasForClass .NET 10 Edition  **(IN DEVELOPMENT - EXPERIMENTAL)**
+- [Simplified Chinese Version of GeoGebra Manual](https://github.com/geogebra/manual/tree/main/zh)
+
 - Ink Canvas Next **(IN DEVELOPMENT)**
 - InkNext **(IN DEVELOPMENT)**
 
@@ -28,7 +29,7 @@ You can [read the full version of the README](https://github.com/ShihaoShen2025/
 
 [~~Another of My Work E-mails (Unavailable)~~](mailto:ShihaoShen@ssh1579.onmicrosoft.com)
 
- [My WordPress Site (Chinese Only)](https://shihaoshen1.wordpress.com)
+[My WordPress Site (Chinese Only)](https://shihaoshen1.wordpress.com)
 
 
 
