@@ -22,3 +22,4 @@
 
 - 这个 ReadMe 和这里的文章
 
+- [GeoGebra 文档简中翻译](https://github.com/geogebra/manual/tree/main/zh)
